@@ -1,0 +1,25 @@
+{
+  "name": "quec-doc-web",
+  "version": "2.90.0",
+  "private": true,
+  "type": "module",
+  "author": "thomption.jiang",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "dev:eu": "vitepress dev docsEU",
+    "build": "vitepress build docs",
+    "build:eu": "vitepress build docsEU",
+    "preview": "vitepress preview"
+  },
+  "dependencies": {
+    "marked": "^14.0.0",
+    "search-insights": "^2.17.2",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "markdown-it-mathjax3": "^4.3.2",
+    "open-cli": "^8.0.0",
+    "stylus": "^0.63.0",
+    "vitepress": "1.6.3"
+  }
+}

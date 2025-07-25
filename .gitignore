@@ -1,0 +1,8 @@
+package-lock.json
+node_modules/
+.idea
+.babelrc
+dist
+.DS_store
+docs/.vitepress/cache/
+docsEU/.vitepress/cache/
