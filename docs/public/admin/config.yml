@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: JFish-ByHu/test
+  repo: JFish-ByHu/cms_repo
   branch: main
 
 media_folder: "docs/public/uploads"
